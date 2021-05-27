@@ -1,0 +1,35 @@
+html {
+    background-color:black;
+    font-family: Arial, Helvetica, sans-serif;
+    color:white
+}
+
+table,tr,th{
+    border:2px solid rgb(0, 153, 153);
+    border-collapse: collapse;
+    background-color:rgb(0, 0, 0);
+    color: white;
+
+}
+
+img{
+    border-radius: 4px;
+    padding: 5px;
+    width: 80px;
+    height: 80px;
+  
+
+}
+.logo{
+    border: 1px solid black;
+    border-bottom: 1px solid black;
+  
+}
+
+.sim{
+    border-radius: 4px;
+    padding: 5px;
+    width: 150px;
+    height: 150px;
+    filter: invert(1);
+}
