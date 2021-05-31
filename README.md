@@ -56,7 +56,7 @@ Once installed, put the project folder inside C: / xampp / htdocs
 
 Once you have entered the folder and you have turned on the Xampp console go to the browser and type
 
-http://localhost/WorkingStargateMk2Raspi-master
+http://localhost/Working-StargateMk2-with-historical-chronology-main
 
 As soon as you have linked the folder, click on the web folder and the stargate command console will open there
 
@@ -70,3 +70,5 @@ To do this, use your computer and check the network that is associated with it, 
 the .34 is for the raspberry to communicate
 
 also in the raspberry you have to change the ip
+
+I hope it was helpful if you have code problems or any other problems write me and I will advise you
