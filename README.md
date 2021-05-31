@@ -48,3 +48,4 @@ https://www.thingiverse.com/thing:1603423
 
 to attach the pieces together I used the glue for the models and the double-sided adhesive, while the points needed for the screws I suggest you take the 10mm screws after you see what to use
 
+in these files there is also a file called "Combinazioni film/serie.pdf" so you can test the functionality of existing destinations
