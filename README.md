@@ -49,3 +49,24 @@ https://www.thingiverse.com/thing:1603423
 to attach the pieces together I used the glue for the models and the double-sided adhesive, while the points needed for the screws I suggest you take the 10mm screws after you see what to use
 
 in these files there is also a file called "Combinazioni film/serie.pdf" so you can test the functionality of existing destinations
+
+I recommend that you have a way to simulate a server ... I used Xampp by activating the Apache server and MySQL.
+Then install Xampp.
+Once installed, put the project folder inside C: / xampp / htdocs
+
+Once you have entered the folder and you have turned on the Xampp console go to the browser and type
+
+http://localhost/WorkingStargateMk2Raspi-master
+
+As soon as you have linked the folder, click on the web folder and the stargate command console will open there
+
+Before doing everything create the model of the stargate and assemble the circuit as explained in the two pages I left earlier.
+
+Then modify the code by changing the network you have of the mobile, that is the code
+http: /192.168.43.34/update and also the others 2.
+
+To do this, use your computer and check the network that is associated with it, i.e. if you have 192.168.52.84 you must enter 192.168.52.34 in the code
+
+the .34 is for the raspberry to communicate
+
+also in the raspberry you have to change the ip
